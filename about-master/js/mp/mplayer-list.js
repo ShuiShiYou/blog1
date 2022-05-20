@@ -68,7 +68,7 @@ var mplayer_song = [
 			"img": "http://p1.music.126.net/TvGC0VkFSygyQRV-vTCAow==/109951166248896981.jpg?param=117y117",
 			"src": music163("1817400204"),
 			"lrc": "",
-			"slrc": "audio/lrc/Alstroemeria_Records-Bad_Apple!!.lrc"
+			"slrc": ""
 		}
 
 	]
